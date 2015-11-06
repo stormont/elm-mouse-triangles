@@ -15,4 +15,4 @@ To run it locally:
 
 Then, open **demo.html** in your web browser.
 
-For a walkthrough, [see my blog post](https://voyageintech.wordpress.com/2015/11/6/drawing-triangles-in-elm/).
+For a walkthrough, [see my blog post](https://voyageintech.wordpress.com/2015/11/06/drawing-triangles-in-elm/).
